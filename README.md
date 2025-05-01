@@ -1,1 +1,1 @@
-# GenAI-Project
+# Information-Retrieval-System
